@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spaces
+  - SushiNotes
+  - Ikura
+  - Onigiri
+  - SushiNigiri
+  - SalmonRoll
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - saru
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3285941201
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spaces
+    uniqueID: 1653452457
+    locked: 0
+  - name: SushiNotes
+    uniqueID: 1194890949
+    locked: 0
+  - name: Messages
+    uniqueID: 4194621363
+    locked: 0
+  - name: Deco
+    uniqueID: 3952253419
+    locked: 0
+  - name: Saru
+    uniqueID: 3185517725
+    locked: 0
